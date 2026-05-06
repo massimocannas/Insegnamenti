@@ -1,5 +1,5 @@
 
-# Teaching — Insegnamenti
+# Insegnamenti
 
 Appunti, slide ed esercizi di alcuni corsi da me tenuti. 
 Questo repository è in preparazione e verrà aggiornato periodicamente.
