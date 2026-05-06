@@ -2,7 +2,7 @@
 # Insegnamenti
 
 Appunti, slide ed esercizi di alcuni corsi da me tenuti. 
-Questo repository è in preparazione e verrà aggiornato periodicamente.
+Verrà aggiornato periodicamente.
 
 ### Corsi
 - Statistica (2025 e 2026) — IT
