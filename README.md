@@ -11,7 +11,7 @@ This repository is in preparation and will be updated from time to time.
 - [Applied Stochastic processes](processi-stocastici-applicati/)
  (reading course, various AYs) — IT
 - Statistical Methods for Medical Research (seminar, TBA) — IT
-- Statistics in Medicine: a phylosophical perspective- (seminar, TBA) — IT
+- Statistics in Medicine: a phylosophical perspective - (seminar, april 2026) — IT
 - Stochastic Models (PhD course, June 2026) — EN
 
 ---
